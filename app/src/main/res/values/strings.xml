@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">loastandfound2</string>
+    <string name="create_a_post">Create a post</string>
+    <string name="search_eg_keys">search eg. Keys</string>
+    <string name="item_name">Item Name</string>
+    <string name="this_is_the_location">This is the Location</string>
+</resources>
